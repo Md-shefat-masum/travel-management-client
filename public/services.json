@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "title": "Bandarban",
+        "cost": 3000,
+        "days": 2,
+        "description": "Bandarban, is a district in South-Eastern Bangladesh, and a part of the Chittagong Division. It is one of the three hill districts of Bangladesh and a part of the Chittagong Hill Tracts, the others being Rangamati District and Khagrachhari District. Bandarban city is the headquarters of the Bandarban district.",
+        "image": "files/1.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Sajek - Rangamati",
+        "cost": 5000,
+        "days": 3,
+        "description": "Sajek is a union at Baghaichari Upazila in Rangamati districts. Basically it is name of a river which separates Bangladesh from India. The river flows into the Karnafuli River in the Chittagong Hill Tracts. Sajek Valley is situated in the North angle of Rangamati, near the Mizoram border boundary area. The valley is 1,800 ft high form sea level. Many small rivers flow through the hills - including the rivers Kachalon and Machalong. The main ethnic minorities on the valley are Chakma, Marma, Tripura, Pankua, Lushai. Marishsha is a name of a place near Sajek Valley. Most of the houses are made with bamboo. There is another place near Sajek, it is Kanlak, and it is known for its orange orchard",
+        "image": "files/2.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Rangamati - Kaptai",
+        "cost": 1500,
+        "days": 1,
+        "description": "Kaptai Lake is a man made lake in south-eastern Bangladesh. It is located in the Kaptai Upazila under Rangamati District of Chittagong Division. The lake was created as a result of building the Kaptai Dam on the Karnaphuli River, as part of the Karnaphuli Hydro-electric project. The Kaptai Lake's average depth is 100 feet (30 m) and maximum depth is 490 feet (150 m). This lake was developed by inundating valleys and plain lands between the many hills.",
+        "image": "files/3.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Sundarbans",
+        "cost": 8000,
+        "days": 5,
+        "description": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh's division of Khulna. It comprises closed and open mangrove forests, land used for agricultural purpose, mudflats and barren land, and is intersected by multiple tidal streams and channels. Four protected areas in the Sundarbans are enlisted as UNESCO World Heritage Sites, viz. Sundarbans National Park, Sundarbans West, Sundarbans South and Sundarbans East Wildlife Sanctuaries.",
+        "image": "files/4.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Saint Martin’s Island",
+        "cost": 5500,
+        "days": 3,
+        "description": "Millennia ago, the island used to be an extension of the Teknaf peninsula, but at a later time some portion of this peninsula got submerged and thus the southernmost part of the aforementioned peninsula became an island, and was disconnected from the Bangladesh mainland. The first settlement started 250 years ago, in 18th century, by Arabian merchants who named the island 'Jazira'. During British occupation the island was named after the then Deputy Commissioner of Chittagong Mr. Martin as St. Martin Island. Likely because one or more of the Arabs were Saint and whose name could not be identified. Local names of the island are Narikel jinjira[3] which means 'Coconut Island', and Daruchini Dwip which means Cinnamon island. It is the only coral island in Bangladesh.",
+        "image": "files/5.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Cox’s Bazar",
+        "cost": 3000,
+        "days": 2,
+        "description": "From the early 9th century the greater Chittagong area, including Cox's Bazar, was under the rule of Arakan kings until its conquest by the Mughals in 1666 AD. When the Mughal Prince Shah Shuja was passing through the hilly terrain of the present-day Cox's Bazar on his way to Arakan, he was attracted to its scenic and captivating beauty. He commanded his forces to camp there. His retinue of one thousand palanquins stopped there for some time. A place named Dulahazara, meaning one thousand palanquins, still exists in the area.",
+        "image": "files/6.jpg"
+    },
+    {
+        "id": "7",
+        "title": "Sylhet",
+        "cost": 10000,
+        "days": 7,
+        "description": "Sylhet is a metropolitan city in northeastern Bangladesh. It is the administrative seat of Sylhet Division. Located on the north bank of the Surma River at the eastern tip of Bengal, Sylhet has a subtropical climate and lush highland terrain. The city has a population of more than half a million, and is one of the largest cities in Bangladesh after Khulna, Chittagong and Dhaka. [1] Sylhet is one of the most important spiritual and cultural centres in Bangladesh. Furthermore, it is one of the most economically important cities in the country after Dhaka and Chittagong. The city produces the highest amount of tea and gas in the country.",
+        "image": "files/7.jpg"
+    },
+    {
+        "id": "8",
+        "title": "Keokradong",
+        "cost": 4500,
+        "days": 2,
+        "description": "Keokradong is a peak located in Bandarban, Bangladesh, with an elevation of 986 metres (3,235 ft).[2] Some sources claim it as the highest point of Bangladesh.On the top of Keokradong there is a small shelter and a signboard put up by Bangladesh Army proclaiming the elevation to be 967 metres (3,173 ft).",
+        "image": "files/8.jpg"
+    },
+    {
+        "id": "9",
+        "title": "Rangamati",
+        "cost": 4000,
+        "days": 2,
+        "description": "Rangamati (Bengali: রাঙ্গামাটি;Chakma:𑄢𑄋𑄟𑄖𑄴𑄳𑄠 )is the administrative headquarters of Rangamati Hill District in the Chittagong Hill Tracts of Bangladesh. The town is located at 22°37'60N 92°12'0E and has an altitude of 14 metres (46 ft).[1] The district is administered by an office named as District Administration, Rangamati.",
+        "image": "files/9.jpg"
+    }
+
+]

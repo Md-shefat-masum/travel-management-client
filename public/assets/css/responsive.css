@@ -1,0 +1,46 @@
+@media screen and (max-width: 991.99px) {
+    .nav_body {
+        position: relative;
+    }
+
+    .nav_links {
+        position: absolute;
+        right: 0;
+        background-color: white;
+        box-shadow: 0px 0px 10px black;
+        width: 200px;
+        z-index: 9999;
+        top: 30px;
+    }
+
+    .nav_links ul{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header nav .nav_body .nav_links ul li{
+        text-align: center;
+    }
+    header nav .nav_body .nav_links ul li ul{
+        position: unset;
+        opacity: 1;
+        visibility: visible;
+        box-shadow: unset;
+        width: unset;
+    }
+
+    header nav .nav_body .nav_links ul li ul li a{
+        padding: 18px;
+    }
+
+    .schedule_body img{
+        width: 100%;
+    }
+
+    #contact .form_body{
+        margin-right: 12px;
+    }
+    #contact .contact_info{
+        margin-left: 12px;
+    }
+}

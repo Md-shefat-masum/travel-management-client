@@ -1,0 +1,48 @@
+[
+    {
+        "id": "1",
+        "title": "Bholaganj",
+        "date": "12-Dec-2021",
+        "cost": 2200,
+        "days": 2,
+        "description": "",
+        "image": "1.jpg"
+    },
+    {
+        "id": "2",
+        "date": "20-Dec-2021",
+        "title": "Tinap Saitar",
+        "cost": 4500,
+        "days": 3,
+        "description": "",
+        "image": "2.jpg"
+    },
+    {
+        "id": "3",
+        "date": "22-Dec-2021",
+        "title": "Bashbaria",
+        "cost": 700,
+        "days": 1,
+        "description": "",
+        "image": "3.jpg"
+    },
+    {
+        "id": "4",
+        "date": "25-Dec-2021",
+        "title": "Chandranath Hill",
+        "cost": 1500,
+        "days": 1,
+        "description": "",
+        "image": "4.jpg"
+    },
+    {
+        "id": "5",
+        "date": "30-Dec-2021",
+        "title": "Amiakhum",
+        "cost": 2500,
+        "days": 3,
+        "description": "",
+        "image": "5.jpg"
+    }
+
+]

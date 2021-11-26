@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "title": "Top Things To Do In Paris",
+        "author": "mr.seikh",
+        "date": "12-Dec-2021",
+        "cost": 2200,
+        "days": 2,
+        "description": "Paris is rich with things to do for a short or long visit. This is why we put together this complete guide to Paris. Visitors normally start by seeing the Louvre, Versailles, and the Paris Catacombs but your list can go on forever if you’d like it too. Many famous artists, composers, and writers fell in love with Paris and made it their second home. Hopefully, our recommendations will motivate you to do the same thing but at a minimum, they’ll give you plenty of options for a long weekend in Paris!",
+        "image": "1.jpg"
+    },
+    {
+        "id": "2",
+        "title": "The 16 Best FRENCH Foods & Drinks To EAT In Paris For 2022",
+        "author": "mr.aziz",
+        "date": "12-Dec-2021",
+        "cost": 2200,
+        "days": 2,
+        "description": "If you have been to France, you know the French are passionate about food, wine, and dining but what exactly are you supposed to eat in Paris to have the full experience? You’ve probably heard about Crepes & Champagne, but there are a lot of other foods, drinks and other things you need to try in Paris. We’ve traveled to Paris, teamed up with our local team, and really hunkered down to compile this list of foods and drinks you simply have to try in Paris.",
+        "image": "2.jpg"
+    }
+    
+
+]
