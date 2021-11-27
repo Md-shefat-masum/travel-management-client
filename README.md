@@ -15,6 +15,16 @@ Best tourist solution.
 - Authentication user email and pasword
 - Authentication with firebase
 - Fully responsive
+## Functionalities
+- Event CRUD
+- Cart Management
+
+## Made by
+- REACT
+- REACT router
+- Node js
+- Express
+- Bootstrap
 
 ## Install
 
